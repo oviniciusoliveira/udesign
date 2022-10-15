@@ -1,0 +1,2 @@
+import{B as t}from"./Button.bc1986f6.js";import"./clsx.m.02fdd3a3.js";import"./index.module.9f59484a.js";import"./index.a7f19f26.js";import"./iframe.80cf794a.js";import"./jsx-runtime.3ea7b8ba.js";const s={title:"Components/Button",component:t,args:{children:"Confirm"},argTypes:{}},i={},a=["Default"];export{i as Default,a as __namedExportsOrder,s as default};
+//# sourceMappingURL=Button.stories.64575de8.js.map
