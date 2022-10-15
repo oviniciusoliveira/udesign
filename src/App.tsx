@@ -1,12 +1,7 @@
+import { LogIn } from "./pages/LogIn";
+
 import "./styles/global.css";
 
 export function App() {
-  return (
-    <>
-      <h1 className="font-bold text-2xl text-violet-500">Hello uDesign</h1>
-      <button className="bg-cyan-500 font-medium py-2 px-4 rounded text-white hover:bg-cyan-300">
-        Send
-      </button>
-    </>
-  );
+  return <LogIn />;
 }
